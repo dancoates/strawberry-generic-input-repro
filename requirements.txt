@@ -1,0 +1,2 @@
+pyinstrument==4.6.2
+strawberry-graphql[debug-server]==0.235.0
